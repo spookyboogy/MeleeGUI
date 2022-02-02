@@ -11,10 +11,10 @@ from PIL.ImageTk import PhotoImage
 print('Done.')
 
 '''
-retarded
+.
 '''
 
-__author__ = 'retarded' 
+
 
 
 class DataHandler(object):
