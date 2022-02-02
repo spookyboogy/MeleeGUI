@@ -777,8 +777,8 @@ class Smash(Frame):
 # if __name__ == '__main__':
     
     # root = Tk()
-    # retardedlifeless = Smash(root)
-    # retardedlifeless.pack()
+    # main = Smash(root)
+    # main.pack()
     # root.mainloop()
            
 
@@ -786,8 +786,8 @@ class Smash(Frame):
 #   
 #   try:
 #       root = Tk()
-#       retardedlifeless = Smash(root)
-#       retardedlifeless.pack()
+#       main = Smash(root)
+#       main.pack()
 #       root.mainloop()
 #       
 #   except Exception as ex:
@@ -795,8 +795,8 @@ class Smash(Frame):
 #       input()
 
 root = Tk()
-retardedlifeless = Smash(root)
-retardedlifeless.pack()
+main = Smash(root)
+main.pack()
 root.mainloop()
 
 
